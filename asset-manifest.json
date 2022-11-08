@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/independent-work-Monday-/static/css/main.4b583034.css",
+    "main.js": "/independent-work-Monday-/static/js/main.084f07de.js",
+    "static/js/787.f57fed70.chunk.js": "/independent-work-Monday-/static/js/787.f57fed70.chunk.js",
+    "index.html": "/independent-work-Monday-/index.html",
+    "main.4b583034.css.map": "/independent-work-Monday-/static/css/main.4b583034.css.map",
+    "main.084f07de.js.map": "/independent-work-Monday-/static/js/main.084f07de.js.map",
+    "787.f57fed70.chunk.js.map": "/independent-work-Monday-/static/js/787.f57fed70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b583034.css",
+    "static/js/main.084f07de.js"
+  ]
+}
